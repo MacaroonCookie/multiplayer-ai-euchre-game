@@ -1,0 +1,1 @@
+Play Euchre, the card game, with AI's or human players.  This project is a personal development project that implements AI development, online gaming, and focuses on relearning the Java programming language.
